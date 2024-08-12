@@ -1,0 +1,201 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,TotalAmount,PaymentMethod,ShippingAddress,BillingAddress,OrderStatus,DiscountApplied,SalesRepID
+1,110,45,2024-03-10,6,417.15,Bank Transfer,771 Shelley Terrace Apt. 218,128 John Walk Apt. 638,Delivered,27.58,19
+2,27,7,2024-05-06,9,617.42,PayPal,000 Jessica Center Apt. 080,31904 Boyd Port,Pending,44.6,16
+3,10,50,2024-03-24,3,319.67,Credit Card,545 Perry Hollow Suite 153,23624 Cody Street,Cancelled,27.22,5
+4,97,7,2024-06-06,4,736.83,Credit Card,3881 Johnson Junction Apt. 412,8366 John Ridges,Pending,2.24,8
+5,101,16,2023-07-13,4,617.29,Bank Transfer,5186 Hernandez Terrace,1722 Hanson Ridge,Delivered,0.76,4
+6,193,39,2023-09-09,6,224.64,Cash on Delivery,55006 Cole Divide,68446 Jared Drives Apt. 498,Pending,8.05,18
+7,131,8,2024-04-22,7,631.88,Cash on Delivery,552 Zachary Mount,8776 Dominique Walk,Cancelled,24.16,14
+8,132,34,2024-04-25,5,440.2,Cash on Delivery,67868 Soto Trail,7807 Sarah Estate Apt. 409,Pending,7.63,7
+9,138,46,2023-07-02,6,371.4,Cash on Delivery,35438 James Summit,605 Jones Ranch Suite 451,Cancelled,9.3,14
+10,193,38,2024-02-27,10,927.41,Bank Transfer,821 Travis Ways,65994 Beck Drive Apt. 821,Delivered,38.38,12
+11,174,10,2023-10-24,2,210.72,Bank Transfer,0200 Stephanie Cliffs Suite 478,336 Olivia Land,Cancelled,4.26,13
+12,108,8,2024-05-15,5,376.22,Bank Transfer,897 Jessica Island,55037 Diamond Meadow Apt. 129,Pending,36.45,14
+13,68,47,2023-09-11,4,139.06,Credit Card,780 Mccarthy Mission,133 Robert Union,Cancelled,24.97,17
+14,8,41,2023-12-01,6,26.77,PayPal,91332 Alyssa Valleys Suite 996,860 Jacob Junctions,Pending,34.49,7
+15,70,7,2023-10-07,4,333.41,Cash on Delivery,57848 Reyes Turnpike Apt. 093,90041 Bishop Mission Apt. 743,Cancelled,22.36,3
+16,42,38,2023-12-25,8,795.44,PayPal,26959 Robert Fords,54149 Swanson Ranch,Cancelled,12.08,16
+17,124,5,2023-11-07,10,917.63,Credit Card,471 Jackson Lakes Apt. 215,321 Hamilton Loop Apt. 451,Pending,2.0,3
+18,137,38,2024-01-27,1,302.71,Bank Transfer,0775 William Overpass Suite 485,98750 Kristen Junctions,Shipped,37.34,17
+19,137,20,2023-12-15,8,836.81,Credit Card,12619 Whitaker Cape Apt. 147,619 Brandi River Suite 677,Pending,29.58,11
+20,165,34,2023-12-16,9,412.77,Bank Transfer,84022 Cortez Road Apt. 312,89590 Robert Square,Shipped,11.85,19
+21,87,10,2023-12-21,8,853.48,Credit Card,16656 Alyssa Lights Apt. 246,410 Olson Ferry Apt. 253,Delivered,47.17,20
+22,3,50,2024-01-26,6,53.81,PayPal,6548 Greer Turnpike Suite 955,458 Andrew Skyway Suite 613,Pending,33.0,7
+23,70,1,2024-02-13,10,411.41,Bank Transfer,64378 Kimberly Crescent,827 Adams Mission,Pending,49.59,4
+24,23,40,2024-02-09,8,506.39,Credit Card,4844 Johnson Inlet Suite 334,6020 Bryan Points Apt. 920,Shipped,1.56,8
+25,74,27,2024-01-17,9,671.22,Credit Card,399 Derrick Pines,668 Brandy Crescent,Cancelled,1.38,11
+26,109,6,2024-03-19,7,497.06,Credit Card,1531 John Place,505 Curtis Gateway,Cancelled,38.85,14
+27,86,8,2024-04-21,10,779.02,Cash on Delivery,492 Page Drives Apt. 630,55519 Joshua Avenue Apt. 001,Cancelled,43.43,3
+28,84,32,2023-08-30,8,636.33,Credit Card,07461 Angela Hills,351 Morris Gateway,Delivered,3.65,2
+29,43,4,2024-03-04,8,996.59,Bank Transfer,36291 Robinson Avenue,912 Smith Lodge,Delivered,49.7,11
+30,146,43,2023-08-29,6,159.33,Bank Transfer,67807 Daniel Shoal Suite 588,9186 Zachary Rue,Cancelled,24.93,8
+31,8,44,2024-03-23,2,521.78,Cash on Delivery,44091 Armstrong Shoal Suite 514,89440 Morales Mills,Shipped,35.84,14
+32,160,13,2024-05-21,8,972.04,Cash on Delivery,24759 Jordan Fall,410 Tim Key Apt. 942,Shipped,16.34,11
+33,116,46,2023-10-08,2,728.56,PayPal,42008 Scott Terrace Apt. 514,7101 Wilcox Flats,Cancelled,25.39,5
+34,181,49,2023-07-29,3,653.64,Cash on Delivery,1749 Hicks Valley Apt. 651,3544 Watkins Fords Suite 145,Shipped,4.33,19
+35,128,6,2023-07-05,6,477.65,PayPal,598 Tran Centers Apt. 491,97698 Rivera Corner Apt. 711,Pending,15.29,5
+36,70,17,2024-02-14,9,380.11,Bank Transfer,13212 Cheryl Turnpike Suite 849,1627 Kidd Circles Suite 835,Delivered,40.48,20
+37,175,16,2023-08-30,7,946.45,Cash on Delivery,35521 Jones Manor Apt. 919,6071 Bowman Pine Apt. 962,Shipped,45.21,3
+38,32,48,2024-03-23,6,575.86,Cash on Delivery,4288 Lisa Ridges Apt. 142,7464 Coleman Divide,Pending,24.51,20
+39,126,31,2024-02-09,1,179.09,Bank Transfer,80695 Samuel Corner,79343 Ryan Skyway Suite 616,Pending,1.47,19
+40,37,19,2024-03-23,1,395.3,PayPal,75000 Spencer Causeway,1945 Barbara Crossroad Suite 487,Pending,13.8,5
+41,181,44,2023-08-09,10,135.32,Credit Card,404 Jeffrey Islands,3680 Holly Corner,Delivered,49.18,11
+42,166,31,2023-11-06,10,498.21,Cash on Delivery,3847 Green Circle Apt. 346,71478 Stephanie Port,Pending,46.02,4
+43,152,50,2024-05-24,1,57.05,Credit Card,1143 Nguyen Skyway Apt. 362,9568 Snyder Drive,Cancelled,35.46,14
+44,133,36,2023-10-24,7,881.18,Cash on Delivery,0848 William Route Apt. 215,9169 Richard Ville,Pending,39.31,7
+45,87,47,2024-03-10,5,523.89,Bank Transfer,5439 Sarah Mountain,092 Houston Rue Suite 672,Shipped,18.79,4
+46,160,27,2024-03-30,10,340.76,Credit Card,692 Stephanie Estate,48921 Tran Squares Suite 900,Shipped,40.45,8
+47,17,40,2024-05-21,3,797.72,Credit Card,368 Tanya Crescent,30084 Skinner Meadow Suite 361,Pending,7.72,12
+48,20,30,2024-01-28,1,163.84,PayPal,78697 Anthony Stravenue,35308 Haley Underpass,Delivered,16.63,1
+49,114,16,2024-04-30,3,279.99,Credit Card,355 Davis Plains,8232 Steven Mission Apt. 713,Delivered,24.4,13
+50,103,12,2024-01-22,2,963.44,Credit Card,9894 Ellis Freeway Apt. 618,9009 Cohen Parkways Suite 124,Pending,38.23,20
+51,88,36,2023-10-21,3,515.66,Credit Card,270 Montgomery Park,29907 Lewis Parkways Apt. 413,Pending,26.7,1
+52,113,46,2024-03-27,6,954.61,Cash on Delivery,382 Rachel Gateway Apt. 426,5918 Paul Corner,Cancelled,4.08,13
+53,88,38,2023-10-24,5,435.21,PayPal,49385 Burns Road Apt. 744,9393 Scott Drive,Cancelled,27.81,20
+54,7,15,2024-05-16,2,646.25,Bank Transfer,192 Lisa Turnpike,1750 Williams Forges Apt. 406,Delivered,41.53,3
+55,66,5,2023-11-18,4,420.28,Cash on Delivery,731 Taylor Wells,8453 Walter Divide Suite 737,Pending,0.94,16
+56,24,6,2023-08-04,8,201.1,Bank Transfer,67076 Angela Walks,150 Hammond Plaza,Pending,9.3,14
+57,78,39,2023-09-07,4,201.25,Credit Card,45710 Johnson Trafficway Apt. 494,7917 James Flat Apt. 595,Cancelled,10.57,1
+58,148,31,2024-01-21,7,42.16,Cash on Delivery,0458 Davis Squares,4543 Eric Creek Apt. 818,Pending,28.84,11
+59,106,49,2024-05-27,3,259.01,Bank Transfer,72784 Thompson Fork,0410 Barr Cliff Apt. 849,Delivered,10.13,13
+60,116,19,2023-09-17,1,885.62,Cash on Delivery,505 Larson Ports,4655 Webb Glens Suite 503,Delivered,1.64,4
+61,146,9,2024-02-04,6,24.48,Bank Transfer,77561 Perez Garden Apt. 967,310 Timothy Landing,Cancelled,5.06,6
+62,148,25,2024-04-04,3,469.44,Bank Transfer,727 Jill Cape Apt. 992,98279 Barker Burgs Apt. 298,Delivered,4.39,11
+63,96,21,2024-04-15,3,839.57,Cash on Delivery,77284 Harrison Harbor,5452 Hoffman Well Apt. 001,Cancelled,30.81,3
+64,100,15,2024-04-06,3,755.13,PayPal,91870 Julie Roads,967 Lopez Row Apt. 556,Delivered,27.77,6
+65,175,33,2024-03-28,9,440.13,PayPal,0739 Jill Dam Apt. 031,729 Angela Mountain Suite 068,Delivered,34.16,3
+66,101,18,2023-12-09,4,881.29,PayPal,3051 Michael Pass Apt. 149,0539 Michael Prairie,Delivered,3.4,20
+67,192,44,2024-05-01,7,979.8,Credit Card,81995 Stephen Loop Suite 661,3258 Thomas View Suite 751,Shipped,41.56,18
+68,64,43,2024-02-17,3,365.27,Cash on Delivery,453 Amanda Walks Suite 041,97649 Miller Gateway,Cancelled,7.45,1
+69,199,12,2023-11-23,7,869.82,Bank Transfer,05620 George Gardens Apt. 821,89717 Kayla Ports Apt. 899,Cancelled,36.17,16
+70,50,15,2024-05-23,1,768.92,Cash on Delivery,3496 Dave Expressway Suite 596,000 Angel Rue Apt. 434,Shipped,28.17,9
+71,117,29,2023-07-09,8,417.64,PayPal,10271 Lambert Plains Suite 955,835 Robert Terrace Suite 320,Delivered,1.45,7
+72,81,36,2023-07-17,9,689.3,Credit Card,25426 Brian Gardens,20594 Lowe Village Apt. 677,Cancelled,0.96,1
+73,173,1,2023-08-03,6,864.4,Cash on Delivery,95622 Stephanie Haven Apt. 308,832 Nicole Land,Shipped,14.61,5
+74,191,40,2023-11-09,9,419.6,Cash on Delivery,579 Wolf Meadow Suite 663,814 Misty Vista Suite 872,Cancelled,12.98,6
+75,37,31,2023-07-22,9,431.89,Bank Transfer,6644 Barnes Camp,458 Gonzales Isle Suite 073,Shipped,40.14,8
+76,56,22,2023-10-15,4,408.65,Bank Transfer,110 Renee Haven,765 Fisher Creek Suite 755,Pending,10.29,2
+77,195,31,2023-07-02,6,197.95,Credit Card,543 Pitts Trafficway Suite 941,11678 Garcia Crossroad,Shipped,21.74,20
+78,38,6,2023-10-11,3,281.62,Cash on Delivery,097 Michael Forest,9967 Diaz Keys,Shipped,10.17,6
+79,17,38,2023-11-15,3,208.43,Cash on Delivery,8854 Johnson Station Apt. 651,298 Brittany Terrace Apt. 234,Shipped,6.29,14
+80,107,49,2023-11-27,10,507.41,PayPal,6451 Lopez Ramp,9901 Stacey Estates Suite 473,Pending,34.2,7
+81,70,35,2024-01-14,2,115.11,Cash on Delivery,46722 Wagner Vista Apt. 908,646 Johnny Locks,Cancelled,23.62,17
+82,8,18,2024-02-27,3,346.53,Bank Transfer,9457 Timothy Village Apt. 167,142 Beck Pines Suite 607,Delivered,4.33,5
+83,34,43,2024-03-15,10,308.62,Cash on Delivery,1349 Robert Ville Suite 613,30230 Christina Forest Suite 856,Pending,48.42,16
+84,44,35,2024-05-07,7,672.66,Bank Transfer,0964 Hudson Mountain Suite 351,08016 Hampton Wells Suite 179,Pending,45.44,14
+85,26,37,2023-07-21,3,452.28,Credit Card,864 Christopher Extension Suite 782,5356 Baker Flat Suite 849,Delivered,33.61,7
+86,178,27,2023-09-25,2,154.02,PayPal,132 Samantha Summit,0963 Beard Ramp Apt. 575,Delivered,41.6,19
+87,191,48,2024-03-01,8,24.15,PayPal,57552 Joseph Orchard,3019 Jonathan Springs Apt. 529,Shipped,42.04,17
+88,32,19,2024-06-07,4,895.8,PayPal,36921 Morrison Park Apt. 696,19501 Adam Vista,Cancelled,7.2,20
+89,172,4,2023-11-13,6,285.56,PayPal,20820 Anthony Way Suite 214,0416 Mills Ridge Suite 932,Cancelled,29.23,6
+90,147,49,2024-06-11,7,45.28,Cash on Delivery,4673 Mckenzie Lodge,1730 Beasley Shore Suite 598,Delivered,47.74,9
+91,11,44,2023-07-21,10,85.74,Bank Transfer,710 Jack Estates Apt. 388,0997 Santiago Mission Apt. 941,Delivered,34.54,17
+92,2,47,2023-09-14,9,176.76,Cash on Delivery,865 Ryan Pine Apt. 073,83822 Brooke Lake Suite 227,Shipped,3.57,9
+93,119,4,2023-07-18,7,160.06,Bank Transfer,9924 Travis Brooks Apt. 787,5400 Carmen Flats,Delivered,14.81,5
+94,200,28,2023-08-22,5,702.43,Bank Transfer,5197 Vega Underpass Apt. 557,716 Snyder Valley Apt. 220,Pending,16.35,9
+95,142,19,2023-07-03,2,817.83,Credit Card,75126 Donald Center,02025 Gallagher Ramp Apt. 403,Pending,7.29,6
+96,25,41,2023-11-29,9,41.19,Bank Transfer,336 Carol Summit,9671 Russell Fall Suite 543,Delivered,33.26,17
+97,179,3,2023-12-22,2,537.94,Bank Transfer,19510 Jones Lakes Apt. 210,745 Barber Squares Suite 354,Cancelled,23.6,4
+98,92,8,2024-04-22,7,555.91,Cash on Delivery,417 Rachel River,963 Kirk Knoll,Cancelled,41.22,1
+99,127,48,2023-08-31,6,117.4,Cash on Delivery,8423 Warren Square Apt. 381,0002 Burns Underpass,Pending,12.38,4
+100,144,16,2023-09-15,1,64.41,PayPal,019 Jason Road,70547 Michelle Fort,Cancelled,22.45,2
+101,119,42,2024-02-20,3,231.54,Credit Card,406 Kevin View,9263 Anthony Mountain Suite 723,Shipped,1.32,10
+102,48,34,2024-04-14,7,621.61,Bank Transfer,1883 Hutchinson Center Suite 722,8742 Judith Drives,Cancelled,49.82,5
+103,14,35,2024-03-19,6,772.8,PayPal,9077 Alvarez Ports Apt. 314,9596 Sanchez Estates Apt. 926,Delivered,7.36,2
+104,20,50,2023-07-31,4,272.8,Bank Transfer,6152 Young Plaza Apt. 450,0641 Callahan Points Suite 928,Shipped,2.42,19
+105,93,42,2023-09-27,5,715.41,PayPal,07628 Martinez Burgs,88748 Alex Lock Suite 959,Cancelled,30.28,1
+106,41,7,2024-02-08,6,895.92,Bank Transfer,052 Meghan Field,9367 Johnson Motorway Apt. 561,Shipped,17.33,3
+107,65,32,2024-01-01,10,211.54,Cash on Delivery,7495 Patricia Shoals Suite 641,107 Hebert Groves,Cancelled,17.0,10
+108,54,16,2024-03-30,6,563.79,PayPal,08019 Scott Forest Suite 206,8901 Jones Passage Apt. 580,Pending,12.43,14
+109,160,6,2024-06-12,8,523.29,Bank Transfer,93223 Kimberly Plaza Apt. 942,88358 Sean Harbor Apt. 123,Cancelled,43.27,19
+110,183,42,2023-08-18,7,768.89,Cash on Delivery,35089 Jennifer Shore Suite 196,2681 Yang Terrace,Cancelled,25.38,4
+111,200,39,2023-08-13,10,730.79,PayPal,325 Stephanie Plains,83883 Richard Cliffs,Cancelled,22.92,1
+112,142,25,2023-11-17,4,133.43,Cash on Delivery,4225 Lara Mission,91160 Jones Mall,Shipped,48.14,11
+113,192,41,2024-01-16,2,985.36,Bank Transfer,252 Arnold Oval Apt. 296,47895 Mcguire Motorway,Cancelled,10.83,5
+114,33,50,2023-10-22,6,238.77,Credit Card,71127 Alicia Ranch,4438 Samantha Meadows Suite 042,Pending,11.35,1
+115,164,29,2023-08-28,6,246.34,Bank Transfer,069 Conley Courts,030 Velazquez Spurs Suite 059,Shipped,46.37,2
+116,191,2,2024-01-17,8,441.33,PayPal,7059 Wu Knolls,247 Lara Summit,Shipped,21.27,20
+117,17,45,2023-07-12,5,32.36,PayPal,797 Brewer Club,3958 Hess Flat,Cancelled,41.12,11
+118,66,37,2024-06-13,4,850.75,Cash on Delivery,95833 Figueroa Estate,32925 Joshua Vista Apt. 221,Delivered,35.54,6
+119,27,34,2023-07-27,1,898.24,Cash on Delivery,0312 Kathryn Forest,312 Jason Mews Apt. 222,Pending,37.43,12
+120,160,37,2024-02-08,5,52.67,Bank Transfer,8510 Douglas Alley,852 John Groves,Cancelled,5.79,6
+121,188,12,2023-12-03,6,845.9,Credit Card,8486 Brandon Islands Suite 869,5606 Jennifer Corner,Pending,28.1,1
+122,117,24,2023-10-03,5,71.53,PayPal,219 Gould Lane,85571 Booth Green Apt. 407,Delivered,23.83,7
+123,113,27,2023-09-22,6,444.06,PayPal,48057 Alexander Burgs,97744 Gomez Vista,Pending,14.63,1
+124,21,37,2024-01-06,2,556.81,Bank Transfer,70784 Mario Creek,72537 Wright Overpass,Delivered,6.76,13
+125,142,21,2024-05-09,7,419.88,Credit Card,06875 Freeman Manor,524 Simpson Drive,Cancelled,48.43,19
+126,131,32,2023-12-31,1,754.33,Bank Transfer,1793 Sheppard Terrace Suite 913,5065 Haley Plains Suite 486,Cancelled,30.73,14
+127,133,48,2024-06-12,5,43.63,Cash on Delivery,82190 Brandon Groves,659 Phillip Flat Apt. 531,Pending,16.25,9
+128,94,40,2024-04-05,7,473.06,PayPal,19033 Laura Pine Apt. 035,9514 Amy Meadows Suite 855,Delivered,44.31,17
+129,28,10,2023-09-25,4,910.01,Bank Transfer,16415 Caleb Court,80805 Maxwell Neck,Cancelled,34.71,4
+130,13,38,2024-05-11,7,122.42,Cash on Delivery,610 Jessica Mountains Apt. 486,69465 Nelson Lane,Delivered,32.93,9
+131,64,24,2023-09-05,10,881.62,Credit Card,519 Hill Green,477 Felicia Mill,Delivered,19.82,14
+132,100,45,2023-07-11,5,918.22,PayPal,6460 Salazar Divide,77297 White Brook Apt. 830,Shipped,20.04,14
+133,98,44,2023-09-09,4,455.32,PayPal,2165 Kimberly Camp Apt. 870,1813 Daniels Corners,Pending,28.11,19
+134,169,50,2023-10-21,6,204.23,Credit Card,96886 Mendez Prairie,5808 Kelli Avenue Apt. 752,Cancelled,41.67,11
+135,150,4,2024-02-21,4,682.59,Credit Card,579 Simon Club,87096 Bruce Street,Delivered,49.61,3
+136,164,16,2023-12-08,1,669.97,Bank Transfer,6318 Michael Point Suite 436,11183 Phillip Islands,Pending,1.34,19
+137,73,12,2024-01-16,9,915.73,Cash on Delivery,675 Coleman Village,955 Rivera Throughway Suite 236,Shipped,12.99,4
+138,95,8,2024-01-24,4,604.3,PayPal,7342 Pennington Loop Apt. 739,77053 Sydney Lakes Suite 850,Cancelled,42.19,1
+139,139,6,2024-05-11,10,537.84,PayPal,88173 Patricia Forges Suite 032,7902 Crystal Spur,Cancelled,1.2,5
+140,153,8,2023-08-09,10,326.12,Bank Transfer,8981 Amanda Drive,6047 Joshua Stream,Cancelled,37.87,15
+141,166,17,2023-09-06,6,831.18,Bank Transfer,354 Pittman Radial,28672 Troy Isle,Pending,24.43,1
+142,183,29,2023-08-21,10,479.94,Credit Card,00990 Bailey Prairie,532 Evan Inlet,Pending,4.24,3
+143,162,1,2024-04-14,8,170.54,Bank Transfer,92101 Jeremy Squares Suite 230,3011 Murphy Island Apt. 690,Shipped,15.1,2
+144,109,1,2024-03-06,6,432.5,PayPal,50573 Nguyen Throughway Apt. 792,1263 Brown Grove Suite 976,Cancelled,48.55,8
+145,144,48,2024-04-29,4,573.95,Cash on Delivery,44280 Phillips Light,086 Kerry Land,Delivered,5.31,5
+146,137,4,2023-06-22,5,930.32,Credit Card,52169 Sandy Knolls,50913 Carter Row Apt. 862,Shipped,8.12,2
+147,37,42,2023-09-17,3,463.8,Credit Card,2886 Smith Points Suite 946,99102 Briggs Green Suite 325,Cancelled,18.31,13
+148,79,28,2024-03-03,10,873.07,PayPal,4745 Kerry Walks,043 Smith Vista Apt. 258,Pending,44.18,19
+149,40,40,2024-01-15,4,513.35,Credit Card,5277 Taylor Station,041 Christopher Harbors Suite 088,Delivered,15.62,2
+150,160,13,2023-09-18,7,655.9,Credit Card,9852 Mark Islands,4343 Villanueva Inlet Suite 911,Shipped,20.52,15
+151,46,41,2023-07-16,2,632.12,Bank Transfer,100 Jeremy Shoals Apt. 498,6078 Robert Walks Suite 270,Cancelled,20.92,3
+152,140,42,2023-07-20,5,405.79,Cash on Delivery,241 Lewis Prairie,27807 Michelle Via,Pending,41.66,14
+153,18,7,2023-11-28,7,837.11,Credit Card,80542 Ward Shores Suite 908,105 Joseph Manors Apt. 466,Delivered,22.38,14
+154,29,36,2024-05-31,2,235.33,PayPal,374 Mora Station,6204 Sheri Burgs Suite 189,Delivered,45.96,14
+155,149,47,2023-11-01,1,270.14,Credit Card,871 Crystal Plain,195 Navarro Club Suite 669,Cancelled,6.28,20
+156,60,7,2023-09-09,9,462.86,Bank Transfer,821 Ali Meadows,9883 Thompson Village,Pending,6.18,3
+157,5,47,2023-06-25,1,481.04,Cash on Delivery,925 Jasmine Inlet Suite 643,5999 Williams Drive Suite 694,Pending,46.61,12
+158,15,3,2024-02-03,7,464.63,Credit Card,5301 Sonya Divide,9723 Christopher Point Apt. 731,Shipped,14.1,1
+159,55,38,2023-08-08,7,32.71,Credit Card,40809 Elizabeth Port Apt. 228,05023 Jack Port,Delivered,49.14,7
+160,157,16,2023-12-01,2,533.6,Credit Card,02487 Anthony Cape,29602 Aguirre Parkways,Shipped,2.55,3
+161,71,1,2024-06-01,7,130.26,Credit Card,8160 Small Courts,5132 Moses Mountain,Pending,9.71,8
+162,182,23,2024-03-31,9,382.82,Bank Transfer,93249 Juan Isle Apt. 776,52941 Valerie Terrace Apt. 078,Pending,8.03,18
+163,29,34,2024-03-15,1,415.77,Bank Transfer,16750 Obrien Walk,296 Cross Mount Apt. 535,Delivered,23.21,14
+164,37,4,2024-03-26,1,692.16,Bank Transfer,27623 Kevin Forest Suite 943,5303 Ashley Radial Apt. 034,Cancelled,30.27,15
+165,12,6,2023-08-30,6,771.96,Cash on Delivery,6459 Johnson Parkways,413 Monica Green Apt. 118,Pending,10.32,16
+166,38,29,2024-04-11,9,395.54,PayPal,423 Arnold Field,8884 Bray Turnpike,Shipped,3.41,20
+167,121,22,2023-06-20,3,69.51,Cash on Delivery,390 Stacy Fords,3982 Giles Track Apt. 757,Pending,26.55,14
+168,62,15,2023-12-18,4,286.49,Cash on Delivery,3928 Savannah Green Apt. 771,44542 Robin Row,Shipped,16.48,7
+169,109,42,2024-04-18,6,264.47,Cash on Delivery,8368 John Drive,336 Amy Lights Suite 597,Pending,28.93,2
+170,123,14,2023-07-16,10,433.8,PayPal,564 Fox Groves,27789 Hernandez Parks,Shipped,39.07,20
+171,177,24,2024-05-12,8,125.02,PayPal,96451 Mclean Street Suite 083,9744 Christopher Fort,Delivered,42.48,19
+172,88,29,2024-03-26,6,491.96,PayPal,615 May Harbor,994 James Route,Pending,31.25,20
+173,134,11,2023-10-31,6,752.4,PayPal,0371 Jessica Viaduct Apt. 611,16526 Caleb Station,Cancelled,38.38,18
+174,178,28,2023-09-18,3,458.7,Bank Transfer,932 Davis Creek Apt. 322,300 Joshua Fort,Cancelled,2.59,16
+175,31,48,2023-09-17,8,880.22,Cash on Delivery,4061 Krista Mill,12851 Cowan Circle,Cancelled,37.87,9
+176,18,46,2024-04-22,10,273.71,Cash on Delivery,9751 Lopez Fork Suite 007,37338 Justin Road,Cancelled,33.24,7
+177,159,42,2023-07-31,8,187.48,Cash on Delivery,6787 Frank Villages Suite 051,42749 Dawson Tunnel Apt. 807,Cancelled,14.64,16
+178,60,12,2023-09-17,1,771.4,Credit Card,05702 Caleb Crescent,4226 Hall Lake Suite 176,Cancelled,19.48,5
+179,180,20,2023-07-05,4,799.72,Bank Transfer,63012 David Springs Suite 166,7163 Karen Point Apt. 113,Pending,1.45,11
+180,130,31,2024-04-10,5,384.53,PayPal,3204 John Port Apt. 731,1418 Alexis Shoal Apt. 971,Shipped,18.69,9
+181,18,34,2024-03-24,5,248.3,Bank Transfer,4876 Rebecca Springs Apt. 563,6399 Martin Vista Apt. 993,Cancelled,35.98,15
+182,44,4,2023-07-06,1,900.57,Credit Card,056 Michael Prairie Apt. 716,2023 Hahn Dale,Delivered,44.82,19
+183,182,7,2024-02-05,6,199.21,Bank Transfer,1524 Richard Street,09189 Paul Center,Shipped,45.43,6
+184,36,39,2023-08-15,5,656.24,PayPal,630 Davis Manor Suite 539,126 George Circles Suite 361,Cancelled,48.67,7
+185,1,43,2023-10-17,10,941.12,Bank Transfer,782 Heather Plain,200 Jessica Ferry Suite 354,Delivered,37.8,7
+186,69,40,2023-10-20,3,668.21,Cash on Delivery,60102 Adams Terrace,3912 Mark Club Apt. 303,Delivered,44.34,2
+187,163,40,2024-04-27,7,971.09,Cash on Delivery,981 Parker Parkways,01366 Gamble Square Apt. 228,Shipped,19.51,12
+188,120,35,2024-04-28,2,844.5,PayPal,0744 Sanchez Road Suite 149,34867 Laura Burgs,Shipped,10.7,5
+189,103,20,2023-12-05,5,177.73,Credit Card,5307 Aguilar Square,15899 Adam Shore Apt. 013,Shipped,13.75,14
+190,137,35,2024-02-12,7,75.0,Credit Card,3990 Rice Green Apt. 582,0652 Johnson Row Suite 492,Cancelled,28.79,9
+191,72,24,2024-05-28,7,913.6,Bank Transfer,308 Bryce Fords Apt. 193,4038 Guerrero Avenue,Cancelled,18.62,14
+192,115,41,2024-06-06,7,421.53,PayPal,9596 Karen Mill Suite 886,3642 Le Ridges Suite 626,Shipped,28.25,7
+193,177,2,2023-11-06,6,498.52,Bank Transfer,989 Benjamin Lakes Suite 652,6806 Williams Mission,Cancelled,5.9,3
+194,197,10,2023-11-16,8,90.08,Bank Transfer,56138 Timothy Groves,124 Daniel Points,Pending,47.36,12
+195,105,31,2023-09-28,6,412.04,Bank Transfer,486 Garcia Route Suite 767,52259 Devin Street,Shipped,27.95,10
+196,196,36,2023-11-10,4,652.67,Bank Transfer,865 Julie Forge,599 Carol Brooks,Cancelled,8.56,6
+197,44,12,2024-01-10,7,530.55,Cash on Delivery,2482 Velez Mall Suite 207,2522 Strickland Bypass,Cancelled,38.03,8
+198,98,22,2024-06-15,7,781.77,PayPal,0891 Justin Rapids,233 Roth Via,Pending,33.5,4
+199,99,35,2024-05-20,4,899.18,Cash on Delivery,592 Kathleen Wall Apt. 940,19300 Deborah Roads Suite 255,Delivered,2.72,13
+200,20,14,2024-05-18,6,941.99,Cash on Delivery,031 Herman Inlet Suite 296,28239 Walker Green,Pending,26.83,3
